@@ -1,0 +1,41 @@
+.navbar {
+    overflow: hidden;
+    background-color: rgb(240, 114, 114);
+    position: fixed;
+  top: 0;
+  width: 100%;
+}
+  
+
+ .navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  body {
+      margin-top: 50px;
+      background-color: navajowhite;
+      text-align: center;
+  }
+
+
+p {
+  
+  font-size 40px;
+
+
+}
+
+.logo img
+{ 
+  width: 150px;
+  height: auto;
+  float: left;
+  background-color: palegoldenrod;
+  
+
+}
